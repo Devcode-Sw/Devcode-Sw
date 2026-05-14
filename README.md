@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+W%C3%AAnio+Silva;Full+Stack+Developer;Engenheiro+de+Software+%5Bem+forma%C3%A7%C3%A3o%5D;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+W%C3%AAnio+Silva;Desenvolvedor+Full+Stack;Engenheiro+de+Software+%5Bem+forma%C3%A7%C3%A3o%5D;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header&text=&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
