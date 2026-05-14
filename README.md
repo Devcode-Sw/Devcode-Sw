@@ -54,7 +54,30 @@ const wenio = {
 > Mostra exatamente quais linguagens foram usadas em cada repositório e em qual proporção. 🚀
 
 <!-- TERMOMETRO:START -->
-_O termômetro será preenchido automaticamente após o primeiro run do GitHub Actions._
+### 📁 [`anime_code`](https://github.com/Devcode-Sw/anime_code)
+> _Sem descrição_
+
+| Linguagem | % | Progresso |
+|:----------|:---:|:----------|
+| 🟠 HTML | 55.3% | `███████████░░░░░░░░░` |
+| 🔵 CSS | 30.3% | `██████░░░░░░░░░░░░░░` |
+| 🟡 JavaScript | 14.5% | `███░░░░░░░░░░░░░░░░░` |
+
+> 💡 *Wênio criou `anime_code` usando: **55.3% HTML** + **30.3% CSS** + **14.5% JavaScript***
+
+---
+
+### 📁 [`Projetos_Faculdade.c-`](https://github.com/Devcode-Sw/Projetos_Faculdade.c-)
+> _Sem descrição_
+
+| Linguagem | % | Progresso |
+|:----------|:---:|:----------|
+| ⚪ C | 100.0% | `████████████████████` |
+
+> 💡 *Wênio criou `Projetos_Faculdade.c-` usando: **100.0% C***
+
+---
+
 <!-- TERMOMETRO:END -->
 
 ---
