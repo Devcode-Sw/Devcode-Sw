@@ -73,7 +73,7 @@ _O termômetro será preenchido automaticamente após o primeiro run do GitHub A
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2026
 
 - [ ] 🚀 Conseguir minha primeira vaga como Dev Full Stack
 - [ ] 📚 Dominar React + Spring Boot
