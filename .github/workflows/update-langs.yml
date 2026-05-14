@@ -1,1 +1,38 @@
+name: 🌡️ Atualizar Termômetro de Linguagens
 
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Roda todo dia à meia-noite (UTC)
+  workflow_dispatch:        # Permite rodar manualmente também
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Instalar dependências
+        run: pip install requests
+
+      - name: 🌡️ Rodar script de linguagens
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Devcode-Sw
+        run: python scripts/update_langs.py
+
+      - name: 💾 Commit das atualizações
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet && git diff --staged --quiet || (git add README.md && git commit -m "🌡️ Auto-update: Termômetro de linguagens atualizado" && git push)
