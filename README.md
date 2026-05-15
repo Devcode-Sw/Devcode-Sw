@@ -88,6 +88,10 @@ const wenio = {
 
 ![Wênio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devcode-Sw&show_icons=true&theme=radical&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0d1117&border_color=00E5FF)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devcode-Sw&layout=compact&theme=radical&title_color=00E5FF&text_color=ffffff&bg_color=0d1117&border_color=00E5FF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Devcode-Sw&theme=radical&ring=00E5FF&fire=ff6b6b&currStreakLabel=00E5FF&background=0d1117&border=00E5FF)
+
 </div>
 
 ---
